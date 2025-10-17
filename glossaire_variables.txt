@@ -1,0 +1,27 @@
+Nom variable	Définition	Unite	Source	Période	Géographie
+annee	Année de l'observation	Année	Who/PUND/WDI/World Bank	1990–2023	Bénin
+pays	Pays concerné	BENIN	Who/PUND/WDI/World Bank	1990–2023	Bénin
+espérance_vie	Espérance de vie à la naissance (années)	Nombre	WHO	1990–2023	Bénin
+mortalité_infantile	Mortalité infantile (<5 ans)	Nombre	WHO	1990–2023	Bénin
+mortalité_maternelle	Mortalité maternelle	%	WHO	1990–2023	Bénin
+densité_médecins	Densité de médecins pour 10000 populations	%	WHO	1990–2023	Bénin
+densité_infirmiers	Densité d’infirmiers	%	WHO	1990–2023	Bénin
+insuffissance_pondérale_T	Prévalence de l'insuffisance pondérale chez les enfants de moins de 5 ans (Total)	%	WHO	1990–2023	Bénin
+insuffissance_pondérale_F	Prévalence de l'insuffisance pondérale chez les enfants de moins de 5 ans (Femelle)	%	WHO	1990–2023	Bénin
+insuffissance_pondérale_M	Prévalence de l'insuffisance pondérale chez les enfants de moins de 5 ans (Masculin)	%	WHO	1990–2023	Bénin
+nombre_lits_hospitaliers	Nombre de lits hospitaliers pour 10000 populations	%	WHO	1990–2023	Bénin
+taux_chômage_jeunes	Taux de chômage des jeunes	%	PNUD	1990–2023	Bénin
+scolarisation_primaire	Scolarisation primaire	%	PNUD	1990–2023	Bénin
+scolarisation_secondaire	Scolarisation secondaire	%	PNUD	1990–2023	Bénin
+scolarisation_superieur	Scolarisation superieur	%	PNUD	1990–2023	Bénin
+pop_15_24_pct	Prévalence de l’obésité adulte (Total)	%	WDI/World Bank	1990–2023	Bénin
+population_total	Prévalence de l’obésité adulte (Masculin)	%	WDI/World Bank	1990–2023	Bénin
+obésité_T	Prévalence de l’obésité adulte (Femelle)	%	WDI/World Bank	1990–2023	Bénin
+obésité_M	Taux d'activité physique insuffisante des adultes (Total)	%	WDI/World Bank	1990–2023	Bénin
+obésité_F	Taux d'activité physique insuffisante des adultes (Masculin)	%	WDI/World Bank	1990–2023	Bénin
+activité_phisique_T	Taux d'activité physique insuffisante des adultes (Femelle)	%	WDI/World Bank	1990–2023	Bénin
+activité_phisique_M	Prévalence de surpoid adulte (Total)	%	WDI/World Bank	1990–2023	Bénin
+activité_phisique_F	Prévalence de surpoid adulte (Masculin)	%	WDI/World Bank	1990–2023	Bénin
+surpoids_T	Prévalence de surpoid adulte (Femelle)	%	WDI/World Bank	1990–2023	Bénin
+surpoids_M	population totale âge de 15-24 ans	%	World Bank	1990–2023	Bénin
+surpoids_F	Population Total	%	World Bank	1990–2023	Bénin
