@@ -1,0 +1,4 @@
+Valeurs manquantes : inspectées par variable et imputées selon le type de variable (interpolation pour les indicateurs de santé à évolution lente, complément prospectif pour l’éducation/l’emploi lorsque cela est raisonnable).
+Valeurs aberrantes : détectées par le score z (seuil 4) et l’IQR ; sauts temporels signalés pour une variation annuelle supérieure à 50 %.
+Indice composite : ACP sur indicateurs standardisés (espérance de vie, taux de scolarisation primaire, secondaire et superireur, taux de mortalité infantile, chômage des jeunes). Indice normalisé de 0 à 1.
+Normalisation : variables créées pour 100 000 habitants lorsque la variable « population_totale » est disponible.
